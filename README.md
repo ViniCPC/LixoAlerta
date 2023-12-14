@@ -17,7 +17,7 @@ Foi requisitada a produção de uma plataforma visual do projeto, com interfase 
 # Horário
 <li>Era informado os dias e o horário da coleta de lixo no CEP informado.
 
-  # Mapa Interativo. <
+  # Mapa Interativo
 <li>Foi utilizada a API do GeoCode do Google.</li>
 <li>Ao informar o CEP, a localidade exata do CEP era demonstrada na interface do projeto. </li>
 
